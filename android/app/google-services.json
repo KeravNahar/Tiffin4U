@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191486273420",
+    "project_id": "tiffin4u-dc149",
+    "storage_bucket": "tiffin4u-dc149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191486273420:android:ec5a7c23fce7f9d0f958a9",
+        "android_client_info": {
+          "package_name": "com.example.tiffin4u_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191486273420-7o0m3p64gq56tj0hbpeaki1rm5ftk7lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Wa31M6pY0mqz0-cq0wCItaRzalJb10U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191486273420-7o0m3p64gq56tj0hbpeaki1rm5ftk7lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
