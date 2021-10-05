@@ -1,6 +1,6 @@
 # tiffin4u_project
 
-A new Flutter application.
+Tiffin4U an initiative to make door to door home cooked food to reach as many people as possible and in turn help office workers, people suffering from communicable diseases and also generate more revenue and encourage home cooks.
 
 ## Getting Started
 
