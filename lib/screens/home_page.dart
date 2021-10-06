@@ -174,7 +174,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   SizedBox(height: 30,),
                   Padding(
-                    padding: const EdgeInsets.only(right:300),
+                    padding: const EdgeInsets.only(left: 30),
                     child: Text("Categories",style: TextStyle(fontSize: 15,color: Colors.teal[900],fontWeight: FontWeight.bold),textAlign: TextAlign.left,),
                   ),
                   SizedBox(height: 20,),
@@ -206,7 +206,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   SizedBox(height: 35,),
                   Padding(
-                    padding: const EdgeInsets.only(right: 225),
+                    padding: const EdgeInsets.only(left: 30),
                     child: Text("Vendors Near You",style: TextStyle(fontSize: 15,color: Colors.teal[900],fontWeight: FontWeight.bold),textAlign: TextAlign.left,),
                   ),
                   SizedBox(height: 10,),
