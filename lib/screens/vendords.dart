@@ -72,7 +72,7 @@ class VendorPage extends StatelessWidget {
                 children: [
                   SizedBox(height: 35,),
                   Padding(
-                    padding: const EdgeInsets.only(right: 225),
+                    padding: const EdgeInsets.only(left: 30),
                     child: Text("All Available Vendors",style: TextStyle(fontSize: 15,color: Colors.teal[900],fontWeight: FontWeight.bold),textAlign: TextAlign.left,),
                   ),
                   SizedBox(height: 10,),
